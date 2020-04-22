@@ -5,3 +5,5 @@ for the controlling purpose Raspberry Pi3 are used.
 all file of project are upload in git repo.
 
 
+Weight file at https://drive.google.com/open?id=1JscZNzoGZhrSk-Zm889tUsMClgeQA9vG and cfg file at https://drive.google.com/open?id=1_MjpSQDw-dMrTeuJmBYmP8qLLz1fucEd.
+
